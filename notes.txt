@@ -1,0 +1,2 @@
+Hello This is a node.js file!!
+I am writing this content by using fs.appendFile("")  
